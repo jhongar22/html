@@ -1,6 +1,6 @@
 body
     {
-        color: aqua;
+        color: #333;
         text-align: center;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
@@ -12,5 +12,5 @@ body
         text-align: left;
         border: 1px solid #DDD ;
         margin: 0 auto;
-        
+
     }
